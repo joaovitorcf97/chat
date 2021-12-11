@@ -1,9 +1,9 @@
 import 'dart:io';
 import 'dart:ui';
 import 'package:chat/components/user_image_picker.dart';
-import 'package:chat/core/theme/app_colors.dart';
-import 'package:chat/core/theme/app_text_styles.dart';
-import 'package:chat/models/auth_form_data.dart';
+import 'package:chat/theme/app_colors.dart';
+import 'package:chat/theme/app_text_styles.dart';
+import 'package:chat/core/models/auth_form_data.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 

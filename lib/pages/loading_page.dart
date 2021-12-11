@@ -1,5 +1,5 @@
-import 'package:chat/core/theme/app_colors.dart';
-import 'package:chat/core/theme/app_text_styles.dart';
+import 'package:chat/theme/app_colors.dart';
+import 'package:chat/theme/app_text_styles.dart';
 import 'package:flutter/material.dart';
 
 class LoadingPage extends StatelessWidget {
